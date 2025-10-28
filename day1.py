@@ -17,6 +17,6 @@ dog2 = Dog("우웅")
 
 dog1.bark()
 dog1.show_count()
-dog1.sound()
+dog1.sound() 
 
 
