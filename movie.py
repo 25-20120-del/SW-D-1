@@ -37,7 +37,7 @@ def load_movies(filename):
 def add_movie():
     print("\n 새 영화를 추가합니다.")
     title = input("새 영화 제목: ")
-    duration = int(input("러닝 타임(분): "))
+    duration = g
     age = int(input("관람 가능 나이: "))
 
     new_movie = Movie(title,duration,age)
